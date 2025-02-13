@@ -1,0 +1,28 @@
+{
+	"name": "cpar",
+	"displayName": "临界点|终焉绝响",
+	"author": "Yuki, 77, 1om6",
+	"description": "
+文明残骸从霍金辐射中分娩量子荆棘，
+被二维化的暴政法典背面，
+正渗出十一维晨曦的胎动， 
+所有囚徒举起火把，  
+将时间熔铸成克莱因环日晷，
+黑洞视界的铁幕深处，
+漂浮着被弦理论重新缝合的创世余烬。
+
+宇宙将会在创世中被湮灭殆尽，
+我的神啊，请拯救我们！
+将这悲惨的世界给予最后一缕色彩，
+我们将以歌唱最后的奄息
+告诉我，这世界的终点在何处？
+在熵增临界点之中......
+
+------临界点CriticalPoint || 终焉绝响Apocalyptic Resonance
+模组介绍请看开屏界面README!",
+	"version": 1.00,
+	"minGameVersion": 140,
+	"dependencies": [],
+	"hideBrowser": true,
+	"repo": ""//git仓库，目前没有。但可以看看我的主页https://github.com/Mindustry-Yuik
+}
